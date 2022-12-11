@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+        <title>BORDER</title>
+
+    </head>
+    <body>
+        <style>
+            p{
+               border-top-style:dotted;
+               border-left-style:double
+               border-right-style:double;
+               border-bottom-st
+            }
+        
+            </style>
+        <p>this is the example of paragraph</p>
+        <h1>this the example of heading 1</h1>
+        <h2>this is the example of heading 2</h2>
+        <a href="https://www.lpu.in/:>click here</a></br>
+        </body>
+</html>
